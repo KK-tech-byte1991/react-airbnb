@@ -1,0 +1,6 @@
+.dropdown-togglew::after {
+  content: '';
+}
+.dropdown-togglew::before {
+  content: '';
+}
